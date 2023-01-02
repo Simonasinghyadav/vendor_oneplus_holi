@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),oscar)
+ifeq ($(TARGET_DEVICE),holi)
 
 endif
